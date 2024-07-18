@@ -16,3 +16,7 @@
 
  -> `npm install @expo/vector-icons props-types --save`
 
+ ## 이미지 다운 
+ 
+ ->pixels.com
+
