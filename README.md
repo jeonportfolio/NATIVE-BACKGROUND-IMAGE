@@ -15,6 +15,8 @@
  ## 다른 설치 요소 
 
  -> `npm install @expo/vector-icons props-types --save`
+ -> `npx expo install expo-file-system` -> 파일 다운로드 ImageDetailScreen.js파일에서 onPressDownload 사용
+ -> `npx expo install expo-media-library` -> 권한 허용 
 
  ## 이미지 다운 
  
