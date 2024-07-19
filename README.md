@@ -22,3 +22,13 @@
  
  ->pixels.com
 
+ ## 앱 디자인 디테일 
+ 
+ -> useState를 활용해 download중인지 아닌지 표현하기 (ActivityIndicator)
+ -> 터치효과 Button.js에서 onPressIn과 onPressOut 사용 (애니메이션 사용)
+
+
+
+
+
+
